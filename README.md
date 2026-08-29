@@ -11,40 +11,82 @@ Every file contains vocabulary with English translations, example sentences, gra
 ### Exam preparation
 | File | What it covers |
 | :--- | :--- |
-| `telc_B1_Exam_Summary_After_B1.1.md` | Full exam map: all five parts, strategies, grammar master list, 4-week study plan |
-| `telc_B1_Probepruefung_L1-L4.md` | Mock exam (Lesen, Sprachbausteine, Schreiben, Sprechen) with answer key |
-| `Leseverstehen_L2_L3_L4.md` | Four reading texts with Richtig/Falsch and multiple-choice tasks |
+| [telc B1 — Exam Summary](telc_B1_Exam_Summary_After_B1.1.md) | Full exam map: all five parts, strategies, grammar master list, 4-week study plan |
+| [telc B1 — Probeprüfung L1–L4](telc_B1_Probepruefung_L1-L4.md) | Mock exam (Lesen, Sprachbausteine, Schreiben, Sprechen) with answer key |
+| [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md) | Four reading texts with Richtig/Falsch and multiple-choice tasks |
+| [Leseverstehen Lektion 3](Lektion_03_Leseverstehen.md) | Reading text on health and sleep, focused on synonyms |
 
 ### Grammar guides
 | File | Topic |
 | :--- | :--- |
-| `Grammatik_Adjektivendungen.md` | Adjective endings — the three article situations, tables, drills |
-| `Grammatik_Als_vs_Wenn.md` | *als* vs *wenn* with side-by-side comparison |
+| [Adjektivendungen](Grammatik_Adjektivendungen.md) | Adjective endings — the three article situations, tables, drills |
+| [als vs. wenn](Grammatik_Als_vs_Wenn.md) | *als* vs *wenn* with side-by-side comparison |
 
-### Lesson notes (Lektion 1–8)
-| File | Theme | Key grammar |
-| :--- | :--- | :--- |
-| `Lektion_01.md`, `Lektion_01_Ellas_Glueckstag.md` | Glück im Alltag | Präteritum, *als* |
-| `Lektion_02*.md` | Unterhaltung & Medien | *obwohl / trotzdem / weil / deshalb*, Relativsätze |
-| `Lektion_03*.md` | Gesund bleiben | *sollte*, Passiv (+ Modalverben), Genitiv |
-| `Lektion_04*.md` | Sprachen & Mehrsprachigkeit | Konjunktiv II, *wegen* + Genitiv, TeKaMoLo, *zwar … aber* |
-| `Lektion_05*.md` | Berufe & Bewerbung | Infinitiv mit *zu*, *brauchen* vs *müssen* |
-| `Lektion_06*.md` | Dienstleistungen | *um … zu*, *damit*, *statt … zu*, *ohne … zu* |
-| `Lektion_07_Notes.md` | Rund ums Wohnen | Zweiteilige Konjunktionen |
-| `Lektion_08_Backup_Unter_Kollegen.md` | Unter Kollegen | *falls*, duzen/siezen |
-| `Lektion_Nachhaltigkeit_je_desto.md` | Nachhaltigkeit | *je … desto / umso* |
+### Lektion 1 — Glück im Alltag
+| File | Content |
+| :--- | :--- |
+| [Lektion 1 — Vokabeln](Lektion_01.md) | Vocabulary: Glück, life events, relationships |
+| [Ellas Glückstag](Lektion_01_Ellas_Glueckstag.md) | Audio story breakdown, Präteritum, *als* |
+
+### Lektion 2 — Unterhaltung & Medien
+| File | Content |
+| :--- | :--- |
+| [Lektion 2 — Notizen](Lektion_02.md) | *weil* / *obwohl* exercises + vocabulary |
+| [Lektion 2 — Grammatik](Lektion_02_Grammatik.md) | Relativsätze (Nominativ, Akkusativ, Dativ), AB 24–25 |
+| [Lektion 2 — Audio-Wortschatz](Lektion_02_Audio_Vocab.md) | Listening vocabulary for media topics |
+
+### Lektion 3 — Gesund bleiben
+| File | Content |
+| :--- | :--- |
+| [Lektion 3 — Notizen](Lektion_03_Notes.md) | Complete chapter summary |
+| [Lektion 3 — Vokabeln](Lektion_03.md) | Health, fitness, doctor visits, Infinitiv mit *zu* |
+| [Lektion 3 — Grammatik](Lektion_03_Grammatik.md) | *sollte* (Konjunktiv II) and the Passiv |
+| [Lektion 3 — AB 33–34](Lektion_03_AB_S33_34.md) | Passiv im Präsens and Passiv mit Modalverben |
+| [Lektion 3 — Genitiv & Verben](Lektion_03_Aufgaben_Genitiv_Verben.md) | Genitiv rules, AB 36, quiz |
+
+### Lektion 4 — Sprachen & Mehrsprachigkeit
+| File | Content |
+| :--- | :--- |
+| [Lektion 4 — Teil 1](Lektion_04_Notes.md) | Konjunktiv II: *wäre*, *hätte*, *würde* |
+| [Lektion 4 — Teil 2](Lektion_04_Teil2_Notes.md) | *wegen* + Genitiv vs *weil*, Small Talk |
+| [Lektion 4 — Abschluss](Lektion_04_Abschluss.md) | *zwar … aber*, Abkürzungen, TeKaMoLo |
+| [Lektion 4 — AB 44–45](Lektion_04_AB_S44_45.md) | Konjunktiv II exercises, *früher* vs *heute* |
+| [Lektion 4 — AB 49–50](Lektion_04_AB_S49_50.md) | Mehrsprachigkeit reading + forum post |
+| [Lektion 4 — Test AB 52](Lektion_04_Test_AB52.md) | Chapter test with solutions |
+| [Verben Lektion 4](Hausaufgabe_Verben_Lektion_04.md) | Irregular verbs with example sentences |
+
+### Lektion 5 — Berufe & Bewerbung
+| File | Content |
+| :--- | :--- |
+| [Lektion 5 — Teil 1](Lektion_05_Notes.md) | Ausbildung, Praktikum, Infinitiv mit *zu* |
+| [Lektion 5 — Teil 2](Lektion_05_Teil2_Notes.md) | Bewerbung vocabulary, Small Talk about work |
+| [Lektion 5 — AB 54–55](Lektion_05_AB_S54_55.md) | Infinitiv mit *zu* exercises |
+| [Lektion 5 — AB 56–57](Lektion_05_AB_Bewerbung_brauchen.md) | *brauchen … zu* vs *müssen*, application letter |
+
+### Lektion 6 — Dienstleistungen
+| File | Content |
+| :--- | :--- |
+| [Lektion 6 — Teil 1](Lektion_06_Notes.md) | *um … zu* vs *damit*, good-employee adjectives |
+| [Lektion 6 — Teil 2](Lektion_06_Teil2_statt_ohne.md) | *statt … zu* / *ohne … zu*, conversation topics |
+
+### Lektion 7–8 & B1.2
+| File | Content |
+| :--- | :--- |
+| [Lektion 7 — Rund ums Wohnen](Lektion_07_Notes.md) | Zweiteilige Konjunktionen, neighbours and conflicts |
+| [Lektion 8 — Unter Kollegen](Lektion_08_Backup_Unter_Kollegen.md) | *falls*, duzen vs siezen, roleplay |
+| [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
 | File | Task type |
 | :--- | :--- |
-| `Schreiben_Paket_Nachbar.md` | Formal message to a neighbour, with corrections |
-| `Schreiben_Nachhaltigkeit_Korrektur.md` | Opinion text (100–120 words), corrected version + explanations |
+| [Paket beim Nachbarn](Schreiben_Paket_Nachbar.md) | Formal message to a neighbour, with corrections |
+| [Nachhaltigkeit — Korrektur](Schreiben_Nachhaltigkeit_Korrektur.md) | Opinion text (100–120 words), corrected version + explanations |
 
-### Vocabulary & verbs
+### Verbs
 | File | Content |
 | :--- | :--- |
-| `Hausaufgabe_Verben.md`, `Hausaufgabe_Verben_Lektion_04.md` | Irregular verbs: Präteritum, Partizip II, example sentences |
-| `Lektion_02_Audio_Vocab.md` | Listening vocabulary for media topics |
+| [Verben — Lektion 3](Hausaufgabe_Verben.md) | Irregular verbs: Präteritum, Perfekt, translations |
+| [Verben — Lektion 4](Hausaufgabe_Verben_Lektion_04.md) | Irregular verbs with example sentences |
 
 ---
 
@@ -80,9 +122,10 @@ Every file contains vocabulary with English translations, example sentences, gra
 
 1. Read the **Lektion notes** for the chapter you are studying.
 2. Do the exercises at the end of each file, then check the answer key.
-3. Practise reading with `Leseverstehen_L2_L3_L4.md`.
-4. Take the mock exam in `telc_B1_Probepruefung_L1-L4.md` under time pressure.
-5. Review weak areas using the dedicated grammar guides.
+3. Practise reading with [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md).
+4. Take the [mock exam](telc_B1_Probepruefung_L1-L4.md) under time pressure.
+5. Review weak areas with [Adjektivendungen](Grammatik_Adjektivendungen.md) and [als vs. wenn](Grammatik_Als_vs_Wenn.md).
+6. Before the exam, work through the [telc B1 Exam Summary](telc_B1_Exam_Summary_After_B1.1.md).
 
 ### Listening practice (the hardest skill)
 
