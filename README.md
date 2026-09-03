@@ -75,6 +75,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 7 — Rund ums Wohnen](Lektion_07_Notes.md) | Zweiteilige Konjunktionen, neighbours and conflicts |
 | [Lektion 8 — Unter Kollegen](Lektion_08_Backup_Unter_Kollegen.md) | *falls*, duzen vs siezen, roleplay |
 | [Lektion 9 — Technik & gemeinsam planen](Lektion_09_Technik_und_Planen.md) | Eigenschaften, Computer-Wortschatz, *sich kümmern um*, Planungs-Redemittel |
+| [Lektion 10 — *als ob* & Organisation](Lektion_10_als_ob_und_Organisation.md) | *während / bevor / nachdem*, *als ob* + Konjunktiv II, Organisations-Wortschatz |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
@@ -114,6 +115,8 @@ Every file contains vocabulary with English translations, example sentences, gra
 - **Purpose & alternatives:** um … zu · damit · statt … zu · ohne … zu
 - **Zweiteilige Konjunktionen:** nicht nur … sondern auch · zwar … aber · entweder … oder
 - **Proportion:** je … desto / umso
+- **Temporal:** während · bevor · nachdem (+ Zeitsprung: Perfekt / Plusquamperfekt)
+- **Schein:** als ob + Konjunktiv II (*er tut so, als ob er reich wäre*)
 - **Word order:** TeKaMoLo (Temporal → Kausal → Modal → Lokal)
 - **Adjective endings:** after der-words · after ein-words · without article
 
