@@ -74,8 +74,9 @@ Every file contains vocabulary with English translations, example sentences, gra
 | :--- | :--- |
 | [Lektion 7 — Rund ums Wohnen](Lektion_07_Notes.md) | Zweiteilige Konjunktionen, neighbours and conflicts |
 | [Lektion 8 — Unter Kollegen](Lektion_08_Backup_Unter_Kollegen.md) | *falls*, duzen vs siezen, roleplay |
-| [Lektion 9 — Technik & gemeinsam planen](Lektion_09_Technik_und_Planen.md) | Eigenschaften, Computer-Wortschatz, *sich kümmern um*, Planungs-Redemittel |
-| [Lektion 10 — *als ob* & Organisation](Lektion_10_als_ob_und_Organisation.md) | *während / bevor / nachdem*, *als ob* + Konjunktiv II, Organisations-Wortschatz |
+| [Lektion 9 — Teil 1: Technik & gemeinsam planen](Lektion_09_Teil1_Technik_und_Planen.md) | Eigenschaften, Computer-Wortschatz, *sich kümmern um*, Planungs-Redemittel |
+| [Lektion 9 — Teil 2: *als ob* & Organisation](Lektion_09_Teil2_als_ob_und_Organisation.md) | *während / bevor / nachdem*, *als ob* + Konjunktiv II, Organisations-Wortschatz |
+| [Lektion 9 — Teil 3: Virtuelle Welt](Lektion_09_Teil3_Virtuelle_Welt.md) | Forumsantwort schreiben, Ratschläge geben, *einerseits … andererseits*, Diskussion |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
@@ -117,6 +118,8 @@ Every file contains vocabulary with English translations, example sentences, gra
 - **Proportion:** je … desto / umso
 - **Temporal:** während · bevor · nachdem (+ Zeitsprung: Perfekt / Plusquamperfekt)
 - **Schein:** als ob + Konjunktiv II (*er tut so, als ob er reich wäre*)
+- **Diskussion:** einerseits … andererseits (Verb direkt nach beiden Wörtern)
+- **Ratschläge:** an deiner Stelle würde ich … · ich würde dir empfehlen, … zu …
 - **Word order:** TeKaMoLo (Temporal → Kausal → Modal → Lokal)
 - **Adjective endings:** after der-words · after ein-words · without article
 

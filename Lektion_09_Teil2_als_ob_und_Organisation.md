@@ -1,4 +1,4 @@
-# B1.2 Lektion 10 — während / bevor / nachdem, *als ob* & Organisation
+# B1.2 Lektion 9 „Virtuelle Welt" — Teil 2: während / bevor / nachdem, *als ob* & Organisation
 
 **Themen:** temporale Konjunktionen wiederholen · neue Grammatik **als ob** · Deutschlandlabor „Organisation"
 **Hausaufgaben:** Arbeitsbuch **Seite 102–103**

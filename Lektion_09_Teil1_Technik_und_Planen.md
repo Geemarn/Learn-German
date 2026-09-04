@@ -1,4 +1,4 @@
-# B1.2 Lektion 9 — Eigenschaften, Technik & gemeinsam planen (Backup-Notizen)
+# B1.2 Lektion 9 „Virtuelle Welt" — Teil 1: Eigenschaften, Technik & gemeinsam planen
 
 **Themen:** Charaktereigenschaften · Technik und Computer im Alltag · eine Veranstaltung gemeinsam planen und Aufgaben verteilen
 **Hausaufgaben:** Arbeitsbuch **Seite 96 und 98**
