@@ -16,6 +16,11 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md) | Four reading texts with Richtig/Falsch and multiple-choice tasks |
 | [Leseverstehen Lektion 3](Lektion_03_Leseverstehen.md) | Reading text on health and sleep, focused on synonyms |
 
+### Leben in Deutschland test (LiD / Einbürgerungstest)
+| File | What it covers |
+| :--- | :--- |
+| [LiD — Kompletter Wortschatz](LiD_Test_Wortschatz.md) | All vocabulary for the 310-question catalogue: democracy, history, society, Berlin questions, key dates, study plan |
+
 ### Grammar guides
 | File | Topic |
 | :--- | :--- |
