@@ -82,6 +82,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 9 — Teil 1: Technik & gemeinsam planen](Lektion_09_Teil1_Technik_und_Planen.md) | Eigenschaften, Computer-Wortschatz, *sich kümmern um*, Planungs-Redemittel |
 | [Lektion 9 — Teil 2: *als ob* & Organisation](Lektion_09_Teil2_als_ob_und_Organisation.md) | *während / bevor / nachdem*, *als ob* + Konjunktiv II, Organisations-Wortschatz |
 | [Lektion 9 — Teil 3: Virtuelle Welt](Lektion_09_Teil3_Virtuelle_Welt.md) | Forumsantwort schreiben, Ratschläge geben, *einerseits … andererseits*, Diskussion |
+| [Lektion 10 — Werbung und Konsum](Lektion_10_Werbung_und_Konsum.md) | *sowohl … als auch*, *weder … noch*, Werbe-Wortschatz, alle zweiteiligen Konnektoren |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
@@ -119,7 +120,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 - **Passiv:** *wird* + Partizip II · with modal: *muss … gemacht **werden***
 - **Infinitiv mit zu:** versuchen / Lust haben / es ist wichtig … *zu* + Infinitiv
 - **Purpose & alternatives:** um … zu · damit · statt … zu · ohne … zu
-- **Zweiteilige Konjunktionen:** nicht nur … sondern auch · zwar … aber · entweder … oder
+- **Zweiteilige Konjunktionen:** nicht nur … sondern auch · zwar … aber · entweder … oder · sowohl … als auch · weder … noch
 - **Proportion:** je … desto / umso
 - **Temporal:** während · bevor · nachdem (+ Zeitsprung: Perfekt / Plusquamperfekt)
 - **Schein:** als ob + Konjunktiv II (*er tut so, als ob er reich wäre*)
