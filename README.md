@@ -84,6 +84,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 9 — Teil 3: Virtuelle Welt](Lektion_09_Teil3_Virtuelle_Welt.md) | Forumsantwort schreiben, Ratschläge geben, *einerseits … andererseits*, Diskussion |
 | [Lektion 10 — Werbung und Konsum](Lektion_10_Werbung_und_Konsum.md) | *sowohl … als auch*, *weder … noch*, Werbe-Wortschatz, alle zweiteiligen Konnektoren |
 | [Lektion 10 — KB 125 & AB 110](Lektion_10_AB_KB125_S110.md) | *Die sprechende Zahnbürste* Leseverstehen + Gegenteile |
+| [Lektion 10 — Teil 2: Pannen](Lektion_10_Teil2_Pannen.md) | Missgeschicke erzählen, *aus Versehen*, Ohrwurm & Co. |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
