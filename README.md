@@ -85,6 +85,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 10 — Werbung und Konsum](Lektion_10_Werbung_und_Konsum.md) | *sowohl … als auch*, *weder … noch*, Werbe-Wortschatz, alle zweiteiligen Konnektoren |
 | [Lektion 10 — KB 125 & AB 110](Lektion_10_AB_KB125_S110.md) | *Die sprechende Zahnbürste* Leseverstehen + Gegenteile |
 | [Lektion 10 — Teil 2: Pannen](Lektion_10_Teil2_Pannen.md) | Missgeschicke erzählen, *aus Versehen*, Ohrwurm & Co. |
+| [Lektion 11 — Miteinander](Lektion_11_Miteinander.md) | Futur I, *sich täuschen*, *da* = *weil*, Benehmen |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
@@ -115,7 +116,8 @@ Every file contains vocabulary with English translations, example sentences, gra
 
 ## Core grammar checklist
 
-- **Connectors:** weil · obwohl · trotzdem · deshalb · denn · wegen (+ Genitiv)
+- **Connectors:** weil · da (= weil, oft schriftlich) · obwohl · trotzdem · deshalb · denn · wegen (+ Genitiv)
+- **Futur I:** werden + Infinitiv (Vermutung, Versprechen, Plan, starke Aufforderung)
 - **als vs wenn:** *als* = single past event · *wenn* = present/future or repeated past
 - **Relativsätze:** der / die / das / den / dem / denen
 - **Konjunktiv II:** wäre · hätte · würde · könnte · müsste · sollte
