@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-label="Named grid template areas building a holy grail layout">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .hd { fill:#1d4ed8; }
+    .sb { fill:#0f766e; }
+    .mn { fill:#3b82f6; }
+    .as { fill:#7c3aed; }
+    .ft { fill:#475569; }
+    .w { font:600 13px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+    .n { font:400 12px ui-monospace,ui-sans-serif,monospace; fill:#334155; }
+    .t { font:600 13px ui-sans-serif,system-ui,sans-serif; fill:#0f172a; }
+  </style>
+
+  <text class="n" x="20" y="22">grid-template-columns: 160px 1fr 180px;</text>
+  <text class="n" x="20" y="42">grid-template-rows: auto 1fr auto;</text>
+  <text class="n" x="20" y="62">grid-template-areas:</text>
+  <text class="n" x="40" y="82">"header  header  header"</text>
+  <text class="n" x="40" y="102">"sidebar main    aside"</text>
+  <text class="n" x="40" y="122">"footer  footer  footer";</text>
+
+  <rect class="c" x="20" y="144" width="720" height="252"/>
+
+  <rect class="hd" x="20" y="144" width="720" height="56" rx="4"/>
+  <text class="w" x="380" y="172" text-anchor="middle" dominant-baseline="middle">header</text>
+
+  <rect class="sb" x="20" y="212" width="160" height="132" rx="4"/>
+  <text class="w" x="100" y="278" text-anchor="middle" dominant-baseline="middle">sidebar</text>
+
+  <rect class="mn" x="192" y="212" width="356" height="132" rx="4"/>
+  <text class="w" x="370" y="278" text-anchor="middle" dominant-baseline="middle">main</text>
+
+  <rect class="as" x="560" y="212" width="180" height="132" rx="4"/>
+  <text class="w" x="650" y="278" text-anchor="middle" dominant-baseline="middle">aside</text>
+
+  <rect class="ft" x="20" y="356" width="720" height="40" rx="4"/>
+  <text class="w" x="380" y="376" text-anchor="middle" dominant-baseline="middle">footer</text>
+
+  <text class="t" x="380" y="416" text-anchor="middle">The ASCII art in the CSS is the layout. Rearranging the strings rearranges the page.</text>
+</svg>

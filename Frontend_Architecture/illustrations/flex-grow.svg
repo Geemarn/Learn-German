@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 286" width="760" height="286" role="img" aria-label="How flex grow and flex basis divide free space">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .f { fill:#0f766e; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+    .w { font:600 12px ui-monospace,ui-sans-serif,monospace; fill:#ffffff; }
+  </style>
+
+  <text class="l" x="20" y="24">Every item: flex: 1</text>
+  <text class="n" x="200" y="24">free space split equally into 3</text>
+  <rect class="c" x="20" y="34" width="720" height="48"/>
+  <rect class="i" x="28" y="42" width="229" height="32" rx="4"/>
+  <rect class="i" x="265" y="42" width="229" height="32" rx="4"/>
+  <rect class="i" x="502" y="42" width="230" height="32" rx="4"/>
+  <text class="w" x="142" y="58" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+  <text class="w" x="379" y="58" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+  <text class="w" x="617" y="58" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+
+  <text class="l" x="20" y="120">Middle item: flex: 2</text>
+  <text class="n" x="200" y="120">4 shares total, so the middle takes two of them</text>
+  <rect class="c" x="20" y="130" width="720" height="48"/>
+  <rect class="i" x="28" y="138" width="172" height="32" rx="4"/>
+  <rect class="i" x="208" y="138" width="344" height="32" rx="4"/>
+  <rect class="i" x="560" y="138" width="172" height="32" rx="4"/>
+  <text class="w" x="114" y="154" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+  <text class="w" x="380" y="154" text-anchor="middle" dominant-baseline="middle">flex: 2</text>
+  <text class="w" x="646" y="154" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+
+  <text class="l" x="20" y="216">Fixed sidebar + fluid rest</text>
+  <text class="n" x="250" y="216">the classic app shell</text>
+  <rect class="c" x="20" y="226" width="720" height="48"/>
+  <rect class="f" x="28" y="234" width="200" height="32" rx="4"/>
+  <rect class="i" x="236" y="234" width="244" height="32" rx="4"/>
+  <rect class="i" x="488" y="234" width="244" height="32" rx="4"/>
+  <text class="w" x="128" y="250" text-anchor="middle" dominant-baseline="middle">flex: 0 0 200px</text>
+  <text class="w" x="358" y="250" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+  <text class="w" x="610" y="250" text-anchor="middle" dominant-baseline="middle">flex: 1</text>
+</svg>

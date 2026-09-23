@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" role="img" aria-label="auto-fill versus auto-fit with minmax">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .e { fill:none; stroke:#ef4444; stroke-width:2; stroke-dasharray:5 4; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .n { font:400 12px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+    .red { font:600 11px ui-sans-serif,system-ui,sans-serif; fill:#ef4444; }
+    .w { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+  </style>
+
+  <text class="l" x="20" y="26">repeat(auto-fill, minmax(160px, 1fr))</text>
+  <text class="n" x="20" y="48">Room for 4 tracks, so 4 tracks are created. With only 3 items the fourth stays EMPTY.</text>
+  <rect class="c" x="20" y="60" width="720" height="76"/>
+  <rect class="i" x="28" y="68" width="171" height="60" rx="4"/>
+  <rect class="i" x="211" y="68" width="171" height="60" rx="4"/>
+  <rect class="i" x="394" y="68" width="171" height="60" rx="4"/>
+  <rect class="e" x="577" y="68" width="155" height="60" rx="4"/>
+  <text class="w" x="113" y="98" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="296" y="98" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="479" y="98" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text class="red" x="654" y="98" text-anchor="middle" dominant-baseline="middle">empty track</text>
+
+  <text class="l" x="20" y="186">repeat(auto-fit, minmax(160px, 1fr))</text>
+  <text class="n" x="20" y="208">Empty tracks COLLAPSE to zero, so the 3 real items expand to fill the row.</text>
+  <rect class="c" x="20" y="220" width="720" height="76"/>
+  <rect class="i" x="28" y="228" width="232" height="60" rx="4"/>
+  <rect class="i" x="272" y="228" width="232" height="60" rx="4"/>
+  <rect class="i" x="516" y="228" width="216" height="60" rx="4"/>
+  <text class="w" x="144" y="258" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="388" y="258" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="624" y="258" text-anchor="middle" dominant-baseline="middle">3</text>
+
+  <text class="n" x="380" y="314" text-anchor="middle">Identical when the grid is full. They differ only when there are fewer items than tracks.</text>
+</svg>

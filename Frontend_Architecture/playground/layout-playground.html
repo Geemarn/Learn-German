@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flexbox &amp; Grid Playground</title>
+<style>
+  :root {
+    --bg: #0f172a; --panel: #1e293b; --line: #334155;
+    --text: #e2e8f0; --muted: #94a3b8; --accent: #3b82f6; --accent2: #0f766e;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px; background: var(--bg); color: var(--text);
+    font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, sans-serif;
+  }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 24px; font-size: 14px; }
+  section { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 18px; margin-bottom: 24px; }
+  h2 { font-size: 16px; margin: 0 0 14px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 14px 20px; margin-bottom: 16px; }
+  label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--muted); }
+  select, input[type="number"] { background: #0b1220; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; font: 13px ui-monospace, monospace; }
+  input[type="range"] { width: 150px; }
+  .stage { border: 2px dashed #64748b; border-radius: 8px; background: #0b1220; min-height: 190px; padding: 10px; }
+  .box { background: var(--accent); color: #fff; border-radius: 6px; display: grid; place-items: center; font: 600 13px ui-monospace, monospace; padding: 14px 18px; }
+  .stage.grid .box { background: var(--accent2); }
+  .box.tall { padding-block: 34px; }
+  .box.short { padding-block: 6px; }
+  pre { background: #0b1220; border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; overflow-x: auto; margin: 14px 0 0; font: 13px/1.6 ui-monospace, monospace; color: #7dd3fc; }
+  .hint { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
+</style>
+</head>
+<body>
+
+<h1>Flexbox &amp; Grid Playground</h1>
+<p class="sub">Change a control, watch the boxes move, and read the generated CSS underneath. Open this file directly in a browser — no build step.</p>
+
+<section>
+  <h2>Flexbox</h2>
+  <div class="controls">
+    <label>flex-direction
+      <select id="f-dir">
+        <option>row</option><option>row-reverse</option>
+        <option>column</option><option>column-reverse</option>
+      </select>
+    </label>
+    <label>justify-content
+      <select id="f-jc">
+        <option>flex-start</option><option>center</option><option>flex-end</option>
+        <option>space-between</option><option>space-around</option><option>space-evenly</option>
+      </select>
+    </label>
+    <label>align-items
+      <select id="f-ai">
+        <option>stretch</option><option>flex-start</option><option>center</option>
+        <option>flex-end</option><option>baseline</option>
+      </select>
+    </label>
+    <label>flex-wrap
+      <select id="f-wrap"><option>nowrap</option><option>wrap</option><option>wrap-reverse</option></select>
+    </label>
+    <label>gap <span id="f-gap-v">12px</span>
+      <input type="range" id="f-gap" min="0" max="48" value="12">
+    </label>
+    <label>items <span id="f-count-v">4</span>
+      <input type="range" id="f-count" min="1" max="8" value="4">
+    </label>
+    <label>item 2 flex-grow
+      <select id="f-grow"><option>0</option><option>1</option><option>2</option></select>
+    </label>
+  </div>
+  <div class="stage" id="f-stage"></div>
+  <pre id="f-css"></pre>
+  <p class="hint">Try this: set <code>flex-wrap: wrap</code>, push items to 8, then compare <code>align-items</code> with <code>align-content</code> in devtools — only the second one moves whole lines.</p>
+</section>
+
+<section>
+  <h2>Grid</h2>
+  <div class="controls">
+    <label>grid-template-columns
+      <select id="g-cols">
+        <option>repeat(3, 1fr)</option>
+        <option>2fr 1fr 1fr</option>
+        <option>200px 1fr</option>
+        <option>repeat(auto-fit, minmax(150px, 1fr))</option>
+        <option>repeat(auto-fill, minmax(150px, 1fr))</option>
+        <option>min-content 1fr max-content</option>
+      </select>
+    </label>
+    <label>justify-items
+      <select id="g-ji"><option>stretch</option><option>start</option><option>center</option><option>end</option></select>
+    </label>
+    <label>align-items
+      <select id="g-ai"><option>stretch</option><option>start</option><option>center</option><option>end</option></select>
+    </label>
+    <label>gap <span id="g-gap-v">12px</span>
+      <input type="range" id="g-gap" min="0" max="48" value="12">
+    </label>
+    <label>items <span id="g-count-v">5</span>
+      <input type="range" id="g-count" min="1" max="12" value="5">
+    </label>
+    <label>item 1 spans
+      <select id="g-span">
+        <option>auto</option>
+        <option>span 2</option>
+        <option>span 3</option>
+        <option>1 / -1</option>
+      </select>
+    </label>
+  </div>
+  <div class="stage grid" id="g-stage"></div>
+  <pre id="g-css"></pre>
+  <p class="hint">Try this: choose <code>auto-fill</code> with only 3 items and watch the empty tracks, then switch to <code>auto-fit</code> and watch them collapse.</p>
+</section>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+
+  function renderFlex() {
+    const stage = $('f-stage');
+    const gap = $('f-gap').value;
+    const count = +$('f-count').value;
+    const grow = $('f-grow').value;
+
+    $('f-gap-v').textContent = gap + 'px';
+    $('f-count-v').textContent = count;
+
+    Object.assign(stage.style, {
+      display: 'flex',
+      flexDirection: $('f-dir').value,
+      justifyContent: $('f-jc').value,
+      alignItems: $('f-ai').value,
+      flexWrap: $('f-wrap').value,
+      gap: gap + 'px',
+    });
+
+    stage.innerHTML = '';
+    for (let i = 1; i <= count; i++) {
+      const el = document.createElement('div');
+      el.className = 'box' + (i === 2 ? ' tall' : i === 3 ? ' short' : '');
+      el.textContent = 'item ' + i;
+      if (i === 2 && grow !== '0') el.style.flexGrow = grow;
+      stage.appendChild(el);
+    }
+
+    $('f-css').textContent =
+`.container {
+  display: flex;
+  flex-direction: ${$('f-dir').value};
+  justify-content: ${$('f-jc').value};
+  align-items: ${$('f-ai').value};
+  flex-wrap: ${$('f-wrap').value};
+  gap: ${gap}px;
+}
+.item-2 { flex-grow: ${grow}; }`;
+  }
+
+  function renderGrid() {
+    const stage = $('g-stage');
+    const gap = $('g-gap').value;
+    const count = +$('g-count').value;
+    const cols = $('g-cols').value;
+    const span = $('g-span').value;
+
+    $('g-gap-v').textContent = gap + 'px';
+    $('g-count-v').textContent = count;
+
+    Object.assign(stage.style, {
+      display: 'grid',
+      gridTemplateColumns: cols,
+      justifyItems: $('g-ji').value,
+      alignItems: $('g-ai').value,
+      gap: gap + 'px',
+    });
+
+    stage.innerHTML = '';
+    for (let i = 1; i <= count; i++) {
+      const el = document.createElement('div');
+      el.className = 'box' + (i === 3 ? ' tall' : '');
+      el.textContent = 'item ' + i;
+      if (i === 1 && span !== 'auto') el.style.gridColumn = span;
+      stage.appendChild(el);
+    }
+
+    $('g-css').textContent =
+`.container {
+  display: grid;
+  grid-template-columns: ${cols};
+  justify-items: ${$('g-ji').value};
+  align-items: ${$('g-ai').value};
+  gap: ${gap}px;
+}
+.item-1 { grid-column: ${span}; }`;
+  }
+
+  ['f-dir','f-jc','f-ai','f-wrap','f-gap','f-count','f-grow']
+    .forEach((id) => $(id).addEventListener('input', renderFlex));
+  ['g-cols','g-ji','g-ai','g-gap','g-count','g-span']
+    .forEach((id) => $(id).addEventListener('input', renderGrid));
+
+  renderFlex();
+  renderGrid();
+</script>
+</body>
+</html>

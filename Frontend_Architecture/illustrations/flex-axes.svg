@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 290" width="740" height="290" role="img" aria-label="Main axis and cross axis for flex-direction row and column">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ef4444"/>
+    </marker>
+  </defs>
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .t { font:600 14px ui-sans-serif,system-ui,sans-serif; fill:#0f172a; }
+    .w { font:600 13px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+    .ax { stroke:#ef4444; stroke-width:2; marker-end:url(#ar); }
+    .axl { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#ef4444; }
+  </style>
+
+  <text class="t" x="60" y="30">flex-direction: row</text>
+  <rect class="c" x="60" y="50" width="280" height="140"/>
+  <rect class="i" x="80" y="85" width="70" height="70" rx="4"/>
+  <rect class="i" x="170" y="85" width="70" height="70" rx="4"/>
+  <rect class="i" x="260" y="85" width="70" height="70" rx="4"/>
+  <text class="w" x="115" y="120" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="205" y="120" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="295" y="120" text-anchor="middle" dominant-baseline="middle">3</text>
+  <line class="ax" x1="60" y1="215" x2="340" y2="215"/>
+  <text class="axl" x="200" y="237" text-anchor="middle">main axis</text>
+  <line class="ax" x1="42" y1="50" x2="42" y2="190"/>
+  <text class="axl" x="22" y="120" text-anchor="middle" transform="rotate(-90 22 120)">cross axis</text>
+
+  <text class="t" x="440" y="30">flex-direction: column</text>
+  <rect class="c" x="440" y="50" width="280" height="140"/>
+  <rect class="i" x="480" y="60" width="200" height="32" rx="4"/>
+  <rect class="i" x="480" y="104" width="200" height="32" rx="4"/>
+  <rect class="i" x="480" y="148" width="200" height="32" rx="4"/>
+  <text class="w" x="580" y="76" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="580" y="120" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="580" y="164" text-anchor="middle" dominant-baseline="middle">3</text>
+  <line class="ax" x1="422" y1="50" x2="422" y2="190"/>
+  <text class="axl" x="402" y="120" text-anchor="middle" transform="rotate(-90 402 120)">main axis</text>
+  <line class="ax" x1="440" y1="215" x2="720" y2="215"/>
+  <text class="axl" x="580" y="237" text-anchor="middle">cross axis</text>
+
+  <text class="axl" x="370" y="275" text-anchor="middle">justify-content works along the MAIN axis. align-items works along the CROSS axis.</text>
+</svg>

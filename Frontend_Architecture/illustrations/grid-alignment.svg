@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" role="img" aria-label="justify-items and align-items move items inside cells, justify-content and align-content move the tracks">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .cell { fill:none; stroke:#cbd5e1; stroke-width:1.5; stroke-dasharray:4 3; }
+    .i { fill:#3b82f6; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+  </style>
+
+  <text class="l" x="20" y="24">justify-items / align-items</text>
+  <text class="n" x="20" y="42">Moves each ITEM inside its own cell. The tracks do not move.</text>
+  <rect class="c" x="20" y="54" width="340" height="190"/>
+  <rect class="cell" x="28" y="62" width="160" height="87"/>
+  <rect class="cell" x="192" y="62" width="160" height="87"/>
+  <rect class="cell" x="28" y="149" width="160" height="87"/>
+  <rect class="cell" x="192" y="149" width="160" height="87"/>
+  <rect class="i" x="36" y="70" width="70" height="36" rx="4"/>
+  <rect class="i" x="237" y="70" width="70" height="36" rx="4"/>
+  <rect class="i" x="36" y="192" width="70" height="36" rx="4"/>
+  <rect class="i" x="237" y="192" width="70" height="36" rx="4"/>
+  <text class="n" x="190" y="266" text-anchor="middle">start / start, centre, start / end, centre / end</text>
+  <text class="n" x="190" y="284" text-anchor="middle">Items are smaller than their cells; the grid still fills the box.</text>
+
+  <text class="l" x="400" y="24">justify-content / align-content</text>
+  <text class="n" x="400" y="42">Moves the whole TRACK GRID inside the container.</text>
+  <rect class="c" x="400" y="54" width="340" height="190"/>
+  <rect class="i" x="497" y="98" width="70" height="44" rx="4"/>
+  <rect class="i" x="575" y="98" width="70" height="44" rx="4"/>
+  <rect class="i" x="497" y="150" width="70" height="44" rx="4"/>
+  <rect class="i" x="575" y="150" width="70" height="44" rx="4"/>
+  <text class="n" x="570" y="266" text-anchor="middle">justify-content: center; align-content: center</text>
+  <text class="n" x="570" y="284" text-anchor="middle">Only matters when the tracks are SMALLER than the container.</text>
+</svg>

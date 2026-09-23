@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" width="760" height="352" role="img" aria-label="How the fr unit divides remaining space">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .f { fill:#0f766e; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .w { font:600 12px ui-monospace,ui-sans-serif,monospace; fill:#ffffff; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+  </style>
+
+  <text class="l" x="20" y="24">grid-template-columns: 1fr 1fr 1fr</text>
+  <rect class="c" x="20" y="32" width="720" height="46"/>
+  <rect class="i" x="20" y="38" width="232" height="34" rx="4"/>
+  <rect class="i" x="264" y="38" width="232" height="34" rx="4"/>
+  <rect class="i" x="508" y="38" width="232" height="34" rx="4"/>
+  <text class="w" x="136" y="55" text-anchor="middle" dominant-baseline="middle">1fr</text>
+  <text class="w" x="380" y="55" text-anchor="middle" dominant-baseline="middle">1fr</text>
+  <text class="w" x="624" y="55" text-anchor="middle" dominant-baseline="middle">1fr</text>
+
+  <text class="l" x="20" y="112">grid-template-columns: 2fr 1fr 1fr</text>
+  <rect class="c" x="20" y="120" width="720" height="46"/>
+  <rect class="i" x="20" y="126" width="348" height="34" rx="4"/>
+  <rect class="i" x="380" y="126" width="174" height="34" rx="4"/>
+  <rect class="i" x="566" y="126" width="174" height="34" rx="4"/>
+  <text class="w" x="194" y="143" text-anchor="middle" dominant-baseline="middle">2fr</text>
+  <text class="w" x="467" y="143" text-anchor="middle" dominant-baseline="middle">1fr</text>
+  <text class="w" x="653" y="143" text-anchor="middle" dominant-baseline="middle">1fr</text>
+
+  <text class="l" x="20" y="200">grid-template-columns: 200px 1fr</text>
+  <text class="n" x="330" y="200">fixed tracks are subtracted first, then fr shares what is left</text>
+  <rect class="c" x="20" y="208" width="720" height="46"/>
+  <rect class="f" x="20" y="214" width="200" height="34" rx="4"/>
+  <rect class="i" x="232" y="214" width="508" height="34" rx="4"/>
+  <text class="w" x="120" y="231" text-anchor="middle" dominant-baseline="middle">200px</text>
+  <text class="w" x="486" y="231" text-anchor="middle" dominant-baseline="middle">1fr</text>
+
+  <text class="l" x="20" y="288">grid-template-columns: 100px 1fr 2fr</text>
+  <rect class="c" x="20" y="296" width="720" height="46"/>
+  <rect class="f" x="20" y="302" width="100" height="34" rx="4"/>
+  <rect class="i" x="132" y="302" width="198" height="34" rx="4"/>
+  <rect class="i" x="342" y="302" width="398" height="34" rx="4"/>
+  <text class="w" x="70" y="319" text-anchor="middle" dominant-baseline="middle">100px</text>
+  <text class="w" x="231" y="319" text-anchor="middle" dominant-baseline="middle">1fr</text>
+  <text class="w" x="541" y="319" text-anchor="middle" dominant-baseline="middle">2fr</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" width="760" height="390" role="img" aria-label="The six justify-content values compared">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .w { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+  </style>
+
+  <text class="l" x="4" y="28">flex-start</text>
+  <text class="n" x="4" y="44">the default</text>
+  <rect class="c" x="180" y="10" width="560" height="44"/>
+  <rect class="i" x="180" y="16" width="60" height="32" rx="4"/>
+  <rect class="i" x="240" y="16" width="60" height="32" rx="4"/>
+  <rect class="i" x="300" y="16" width="60" height="32" rx="4"/>
+
+  <text class="l" x="4" y="88">center</text>
+  <rect class="c" x="180" y="70" width="560" height="44"/>
+  <rect class="i" x="370" y="76" width="60" height="32" rx="4"/>
+  <rect class="i" x="430" y="76" width="60" height="32" rx="4"/>
+  <rect class="i" x="490" y="76" width="60" height="32" rx="4"/>
+
+  <text class="l" x="4" y="148">flex-end</text>
+  <rect class="c" x="180" y="130" width="560" height="44"/>
+  <rect class="i" x="560" y="136" width="60" height="32" rx="4"/>
+  <rect class="i" x="620" y="136" width="60" height="32" rx="4"/>
+  <rect class="i" x="680" y="136" width="60" height="32" rx="4"/>
+
+  <text class="l" x="4" y="208">space-between</text>
+  <text class="n" x="4" y="224">no space at the edges</text>
+  <rect class="c" x="180" y="190" width="560" height="44"/>
+  <rect class="i" x="180" y="196" width="60" height="32" rx="4"/>
+  <rect class="i" x="430" y="196" width="60" height="32" rx="4"/>
+  <rect class="i" x="680" y="196" width="60" height="32" rx="4"/>
+
+  <text class="l" x="4" y="268">space-around</text>
+  <text class="n" x="4" y="284">edges get HALF a gap</text>
+  <rect class="c" x="180" y="250" width="560" height="44"/>
+  <rect class="i" x="243" y="256" width="60" height="32" rx="4"/>
+  <rect class="i" x="430" y="256" width="60" height="32" rx="4"/>
+  <rect class="i" x="617" y="256" width="60" height="32" rx="4"/>
+
+  <text class="l" x="4" y="328">space-evenly</text>
+  <text class="n" x="4" y="344">every gap identical</text>
+  <rect class="c" x="180" y="310" width="560" height="44"/>
+  <rect class="i" x="275" y="316" width="60" height="32" rx="4"/>
+  <rect class="i" x="430" y="316" width="60" height="32" rx="4"/>
+  <rect class="i" x="585" y="316" width="60" height="32" rx="4"/>
+
+  <text class="n" x="380" y="380" text-anchor="middle">All six distribute the FREE space along the main axis. With no free space, they all look identical.</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 240" width="740" height="240" role="img" aria-label="flex-wrap nowrap versus wrap">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .l { font:600 13px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+    .w { font:600 11px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+  </style>
+
+  <text class="l" x="20" y="24">flex-wrap: nowrap</text>
+  <text class="n" x="20" y="42">(the default)</text>
+  <rect class="c" x="20" y="52" width="320" height="64"/>
+  <rect class="i" x="28" y="60" width="57" height="48" rx="4"/>
+  <rect class="i" x="89" y="60" width="57" height="48" rx="4"/>
+  <rect class="i" x="150" y="60" width="57" height="48" rx="4"/>
+  <rect class="i" x="211" y="60" width="57" height="48" rx="4"/>
+  <rect class="i" x="272" y="60" width="57" height="48" rx="4"/>
+  <text class="w" x="56" y="86" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="117" y="86" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="178" y="86" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text class="w" x="239" y="86" text-anchor="middle" dominant-baseline="middle">4</text>
+  <text class="w" x="300" y="86" text-anchor="middle" dominant-baseline="middle">5</text>
+  <text class="n" x="20" y="140">Items each WANT 100px, but they shrink to 57px</text>
+  <text class="n" x="20" y="156">to stay on one line. Text gets squashed.</text>
+  <text class="n" x="20" y="180">This is flex-shrink doing its job. It is also why</text>
+  <text class="n" x="20" y="196">a long word can force a flex item to overflow:</text>
+  <text class="n" x="20" y="212">add min-width: 0 to let it shrink properly.</text>
+
+  <text class="l" x="400" y="24">flex-wrap: wrap</text>
+  <text class="n" x="400" y="42">items keep their basis and move to a new line</text>
+  <rect class="c" x="400" y="52" width="320" height="120"/>
+  <rect class="i" x="408" y="60" width="96" height="48" rx="4"/>
+  <rect class="i" x="512" y="60" width="96" height="48" rx="4"/>
+  <rect class="i" x="616" y="60" width="96" height="48" rx="4"/>
+  <rect class="i" x="408" y="116" width="96" height="48" rx="4"/>
+  <rect class="i" x="512" y="116" width="96" height="48" rx="4"/>
+  <text class="w" x="456" y="86" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text class="w" x="560" y="86" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text class="w" x="664" y="86" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text class="w" x="456" y="142" text-anchor="middle" dominant-baseline="middle">4</text>
+  <text class="w" x="560" y="142" text-anchor="middle" dominant-baseline="middle">5</text>
+  <text class="n" x="400" y="196">Each LINE is then aligned by align-content,</text>
+  <text class="n" x="400" y="212">not align-items.</text>
+</svg>

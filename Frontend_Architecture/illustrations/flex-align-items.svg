@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" width="760" height="210" role="img" aria-label="The five align-items values compared">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .l { font:600 12px ui-monospace,ui-sans-serif,monospace; fill:#0f172a; }
+    .n { font:400 11px ui-sans-serif,system-ui,sans-serif; fill:#64748b; }
+    .b { stroke:#ef4444; stroke-width:1.5; stroke-dasharray:4 3; }
+    .bw { font:600 11px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+  </style>
+
+  <text class="l" x="0" y="14">stretch</text>
+  <text class="n" x="58" y="14">(default)</text>
+  <rect class="c" x="0" y="24" width="140" height="140"/>
+  <rect class="i" x="11" y="34" width="34" height="120" rx="4"/>
+  <rect class="i" x="53" y="34" width="34" height="120" rx="4"/>
+  <rect class="i" x="95" y="34" width="34" height="120" rx="4"/>
+  <text class="n" x="70" y="186" text-anchor="middle">items fill the</text>
+  <text class="n" x="70" y="200" text-anchor="middle">cross axis</text>
+
+  <text class="l" x="155" y="14">flex-start</text>
+  <rect class="c" x="155" y="24" width="140" height="140"/>
+  <rect class="i" x="166" y="34" width="34" height="44" rx="4"/>
+  <rect class="i" x="208" y="34" width="34" height="76" rx="4"/>
+  <rect class="i" x="250" y="34" width="34" height="30" rx="4"/>
+  <text class="n" x="225" y="186" text-anchor="middle">tops aligned</text>
+
+  <text class="l" x="310" y="14">center</text>
+  <rect class="c" x="310" y="24" width="140" height="140"/>
+  <rect class="i" x="321" y="72" width="34" height="44" rx="4"/>
+  <rect class="i" x="363" y="56" width="34" height="76" rx="4"/>
+  <rect class="i" x="405" y="79" width="34" height="30" rx="4"/>
+  <text class="n" x="380" y="186" text-anchor="middle">centres aligned</text>
+
+  <text class="l" x="465" y="14">flex-end</text>
+  <rect class="c" x="465" y="24" width="140" height="140"/>
+  <rect class="i" x="476" y="110" width="34" height="44" rx="4"/>
+  <rect class="i" x="518" y="78" width="34" height="76" rx="4"/>
+  <rect class="i" x="560" y="124" width="34" height="30" rx="4"/>
+  <text class="n" x="535" y="186" text-anchor="middle">bottoms aligned</text>
+
+  <text class="l" x="620" y="14">baseline</text>
+  <rect class="c" x="620" y="24" width="140" height="140"/>
+  <rect class="i" x="631" y="34" width="34" height="44" rx="4"/>
+  <rect class="i" x="673" y="34" width="34" height="76" rx="4"/>
+  <rect class="i" x="715" y="34" width="34" height="30" rx="4"/>
+  <text class="bw" x="648" y="62" text-anchor="middle">Aa</text>
+  <text class="bw" x="690" y="62" text-anchor="middle">Aa</text>
+  <text class="bw" x="732" y="62" text-anchor="middle">Aa</text>
+  <line class="b" x1="620" y1="65" x2="760" y2="65"/>
+  <text class="n" x="690" y="186" text-anchor="middle">TEXT baselines</text>
+  <text class="n" x="690" y="200" text-anchor="middle">aligned</text>
+</svg>

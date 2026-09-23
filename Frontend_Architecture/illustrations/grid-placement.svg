@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340" role="img" aria-label="Placing grid items across line numbers with span">
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .a { fill:#3b82f6; }
+    .b { fill:#0f766e; }
+    .d { fill:#7c3aed; }
+    .num { font:700 12px ui-sans-serif,system-ui,sans-serif; fill:#ef4444; }
+    .w { font:600 12px ui-monospace,ui-sans-serif,monospace; fill:#ffffff; }
+    .n { font:400 12px ui-monospace,ui-sans-serif,monospace; fill:#334155; }
+  </style>
+
+  <rect class="c" x="90" y="46" width="620" height="228"/>
+
+  <rect class="a" x="90" y="46" width="304" height="68" rx="4"/>
+  <rect class="a" x="406" y="46" width="304" height="68" rx="4"/>
+  <rect class="b" x="90" y="126" width="146" height="148" rx="4"/>
+  <rect class="d" x="248" y="126" width="462" height="68" rx="4"/>
+  <rect class="d" x="248" y="206" width="304" height="68" rx="4"/>
+  <rect class="a" x="564" y="206" width="146" height="68" rx="4"/>
+
+  <text class="w" x="242" y="80" text-anchor="middle" dominant-baseline="middle">A: column 1 / 3</text>
+  <text class="w" x="558" y="80" text-anchor="middle" dominant-baseline="middle">B: column 3 / 5</text>
+  <text class="w" x="163" y="192" text-anchor="middle" dominant-baseline="middle">C</text>
+  <text class="w" x="163" y="212" text-anchor="middle" dominant-baseline="middle">row 2 / 4</text>
+  <text class="w" x="479" y="160" text-anchor="middle" dominant-baseline="middle">D: column 2 / -1</text>
+  <text class="w" x="400" y="240" text-anchor="middle" dominant-baseline="middle">E: span 2</text>
+  <text class="w" x="637" y="240" text-anchor="middle" dominant-baseline="middle">F</text>
+
+  <text class="num" x="90" y="36" text-anchor="middle">1</text>
+  <text class="num" x="242" y="36" text-anchor="middle">2</text>
+  <text class="num" x="400" y="36" text-anchor="middle">3</text>
+  <text class="num" x="558" y="36" text-anchor="middle">4</text>
+  <text class="num" x="710" y="36" text-anchor="middle">5</text>
+
+  <text class="num" x="78" y="52" text-anchor="end">1</text>
+  <text class="num" x="78" y="130" text-anchor="end">2</text>
+  <text class="num" x="78" y="210" text-anchor="end">3</text>
+  <text class="num" x="78" y="278" text-anchor="end">4</text>
+
+  <text class="n" x="20" y="302">A { grid-column: 1 / 3 }   C { grid-row: 2 / 4 }   D { grid-column: 2 / -1 }   E { grid-column: span 2 }</text>
+  <text class="n" x="20" y="326">-1 means "the last line", so D stretches to the end whatever the column count turns out to be.</text>
+</svg>

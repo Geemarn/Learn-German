@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" width="760" height="390" role="img" aria-label="Grid anatomy: lines, tracks, cells, areas and gaps">
+  <defs>
+    <marker id="ga" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ef4444"/>
+    </marker>
+  </defs>
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .cell { fill:#bfdbfe; stroke:#3b82f6; stroke-width:1.5; }
+    .area { fill:#f59e0b; fill-opacity:0.35; stroke:#b45309; stroke-width:2.5; }
+    .num { font:700 12px ui-sans-serif,system-ui,sans-serif; fill:#0f172a; }
+    .lab { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#0f172a; }
+    .red { font:700 12px ui-sans-serif,system-ui,sans-serif; fill:#ef4444; }
+    .ax { stroke:#ef4444; stroke-width:1.5; marker-end:url(#ga); marker-start:url(#ga); }
+  </style>
+
+  <rect class="c" x="120" y="56" width="520" height="262"/>
+
+  <rect class="cell" x="128" y="64" width="160" height="78" rx="3"/>
+  <rect class="cell" x="304" y="64" width="160" height="78" rx="3"/>
+  <rect class="cell" x="480" y="64" width="152" height="78" rx="3"/>
+  <rect class="cell" x="128" y="158" width="160" height="78" rx="3"/>
+  <rect class="cell" x="304" y="158" width="160" height="78" rx="3"/>
+  <rect class="cell" x="480" y="158" width="152" height="78" rx="3"/>
+  <rect class="cell" x="128" y="252" width="160" height="58" rx="3"/>
+  <rect class="cell" x="304" y="252" width="160" height="58" rx="3"/>
+  <rect class="cell" x="480" y="252" width="152" height="58" rx="3"/>
+
+  <text class="lab" x="208" y="107" text-anchor="middle">cell</text>
+
+  <rect class="area" x="304" y="158" width="328" height="152" rx="3"/>
+  <text class="lab" x="468" y="240" text-anchor="middle">area (spans 2 cols x 2 rows)</text>
+
+  <text class="num" x="128" y="46" text-anchor="middle">1</text>
+  <text class="num" x="296" y="46" text-anchor="middle">2</text>
+  <text class="num" x="472" y="46" text-anchor="middle">3</text>
+  <text class="num" x="632" y="46" text-anchor="middle">4</text>
+  <text class="red" x="380" y="26" text-anchor="middle">column lines</text>
+
+  <text class="num" x="108" y="68" text-anchor="middle">1</text>
+  <text class="num" x="108" y="154" text-anchor="middle">2</text>
+  <text class="num" x="108" y="248" text-anchor="middle">3</text>
+  <text class="num" x="108" y="314" text-anchor="middle">4</text>
+  <text class="red" x="62" y="190" text-anchor="middle" transform="rotate(-90 62 190)">row lines</text>
+
+  <line class="ax" x1="288" y1="103" x2="304" y2="103"/>
+  <text class="red" x="296" y="128" text-anchor="middle">gap</text>
+
+  <line class="ax" x1="128" y1="336" x2="288" y2="336"/>
+  <text class="red" x="208" y="356" text-anchor="middle">column track</text>
+
+  <line class="ax" x1="660" y1="64" x2="660" y2="142"/>
+  <text class="red" x="700" y="107" text-anchor="middle">row track</text>
+
+  <text class="lab" x="380" y="382" text-anchor="middle">You place items against LINE NUMBERS, not against other items. That is the whole difference from flexbox.</text>
+</svg>

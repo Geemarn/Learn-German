@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" role="img" aria-label="Flexbox is one dimensional and content driven, grid is two dimensional and layout driven">
+  <defs>
+    <marker id="va" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ef4444"/>
+    </marker>
+  </defs>
+  <style>
+    .c { fill:#f1f5f9; stroke:#94a3b8; stroke-width:2; stroke-dasharray:6 4; }
+    .i { fill:#3b82f6; }
+    .g { fill:#0f766e; }
+    .t { font:700 15px ui-sans-serif,system-ui,sans-serif; fill:#0f172a; }
+    .n { font:400 12px ui-sans-serif,system-ui,sans-serif; fill:#334155; }
+    .w { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#ffffff; }
+    .ax { stroke:#ef4444; stroke-width:2; marker-end:url(#va); }
+    .red { font:600 12px ui-sans-serif,system-ui,sans-serif; fill:#ef4444; }
+  </style>
+
+  <text class="t" x="20" y="26">FLEXBOX: one dimension</text>
+  <text class="n" x="20" y="46">The CONTENT decides the sizes.</text>
+  <rect class="c" x="20" y="60" width="340" height="80"/>
+  <rect class="i" x="28" y="76" width="60" height="48" rx="4"/>
+  <rect class="i" x="96" y="76" width="118" height="48" rx="4"/>
+  <rect class="i" x="222" y="76" width="82" height="48" rx="4"/>
+  <text class="w" x="58" y="100" text-anchor="middle" dominant-baseline="middle">Home</text>
+  <text class="w" x="155" y="100" text-anchor="middle" dominant-baseline="middle">Dashboards</text>
+  <text class="w" x="263" y="100" text-anchor="middle" dominant-baseline="middle">Billing</text>
+  <line class="ax" x1="20" y1="156" x2="360" y2="156"/>
+  <text class="red" x="190" y="176" text-anchor="middle">one axis at a time</text>
+  <text class="n" x="20" y="206">Widths differ because the labels differ.</text>
+  <text class="n" x="20" y="226">This line knows nothing about the line</text>
+  <text class="n" x="20" y="246">above or below it.</text>
+  <text class="n" x="20" y="278">Best for: toolbars, nav bars, button rows,</text>
+  <text class="n" x="20" y="298">centring one thing, a card footer.</text>
+
+  <text class="t" x="400" y="26">GRID: two dimensions</text>
+  <text class="n" x="400" y="46">The CONTAINER decides the sizes.</text>
+  <rect class="c" x="400" y="60" width="340" height="140"/>
+  <rect class="g" x="408" y="68" width="105" height="58" rx="4"/>
+  <rect class="g" x="521" y="68" width="105" height="58" rx="4"/>
+  <rect class="g" x="634" y="68" width="98" height="58" rx="4"/>
+  <rect class="g" x="408" y="134" width="105" height="58" rx="4"/>
+  <rect class="g" x="521" y="134" width="105" height="58" rx="4"/>
+  <rect class="g" x="634" y="134" width="98" height="58" rx="4"/>
+  <line class="ax" x1="400" y1="216" x2="740" y2="216"/>
+  <line class="ax" x1="386" y1="60" x2="386" y2="200"/>
+  <text class="red" x="570" y="236" text-anchor="middle">both axes at once</text>
+  <text class="n" x="400" y="278">Cells line up in rows AND columns whatever</text>
+  <text class="n" x="400" y="298">the content. Best for: page shells, card grids, forms.</text>
+</svg>
