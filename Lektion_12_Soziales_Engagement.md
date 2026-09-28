@@ -180,7 +180,5 @@ Ausführlicher zu *während / bevor / nachdem*: [Lektion 9 Teil 2](Lektion_09_Te
 
 ## 6. Hausaufgaben
 
-- **Arbeitsbuch S. 132–133**
-- **AB S. 130** — optional
-
-Schick mir Fotos, dann löse ich die Übungen mit dir — mit Wortschatzliste, Übersetzung und Erklärung, wie immer.
+- **Arbeitsbuch S. 132–133** · optional **AB S. 130**
+- ✅ Lösungen S. 132: [AB 132](Lektion_12_AB_S132.md) — S. 133 fehlt noch auf dem Foto.

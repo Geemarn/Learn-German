@@ -88,6 +88,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 11 — Miteinander](Lektion_11_Miteinander.md) | Futur I, *sich täuschen*, *da* = *weil*, Benehmen |
 | [Lektion 11 — Teil 2: In der Fremde](Lektion_11_Teil2_Fremde.md) | Bußgeld, Entschuldigung, *sich an etwas gewöhnen* |
 | [Lektion 12 — Soziales Engagement](Lektion_12_Soziales_Engagement.md) | Ehrenamt, Nachbarschaftshilfe, *seit* / *seitdem* |
+| [Lektion 12 — AB 132](Lektion_12_AB_S132.md) | *als, nachdem, bevor, bis, seit/seitdem* — Lösungen |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
