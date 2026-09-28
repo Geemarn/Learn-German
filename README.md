@@ -87,6 +87,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 10 — Teil 2: Pannen](Lektion_10_Teil2_Pannen.md) | Missgeschicke erzählen, *aus Versehen*, Ohrwurm & Co. |
 | [Lektion 11 — Miteinander](Lektion_11_Miteinander.md) | Futur I, *sich täuschen*, *da* = *weil*, Benehmen |
 | [Lektion 11 — Teil 2: In der Fremde](Lektion_11_Teil2_Fremde.md) | Bußgeld, Entschuldigung, *sich an etwas gewöhnen* |
+| [Lektion 12 — Soziales Engagement](Lektion_12_Soziales_Engagement.md) | Ehrenamt, Nachbarschaftshilfe, *seit* / *seitdem* |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
@@ -127,7 +128,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 - **Purpose & alternatives:** um … zu · damit · statt … zu · ohne … zu
 - **Zweiteilige Konjunktionen:** nicht nur … sondern auch · zwar … aber · entweder … oder · sowohl … als auch · weder … noch
 - **Proportion:** je … desto / umso
-- **Temporal:** während · bevor · nachdem (+ Zeitsprung: Perfekt / Plusquamperfekt)
+- **Temporal:** während · bevor · nachdem (+ Zeitsprung: Perfekt / Plusquamperfekt) · seit / seitdem (Präsens, wenn es bis jetzt dauert)
 - **Schein:** als ob + Konjunktiv II (*er tut so, als ob er reich wäre*)
 - **Diskussion:** einerseits … andererseits (Verb direkt nach beiden Wörtern)
 - **Ratschläge:** an deiner Stelle würde ich … · ich würde dir empfehlen, … zu …
