@@ -86,6 +86,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | [Lektion 10 — KB 125 & AB 110](Lektion_10_AB_KB125_S110.md) | *Die sprechende Zahnbürste* Leseverstehen + Gegenteile |
 | [Lektion 10 — Teil 2: Pannen](Lektion_10_Teil2_Pannen.md) | Missgeschicke erzählen, *aus Versehen*, Ohrwurm & Co. |
 | [Lektion 11 — Miteinander](Lektion_11_Miteinander.md) | Futur I, *sich täuschen*, *da* = *weil*, Benehmen |
+| [Lektion 11 — Teil 2: In der Fremde](Lektion_11_Teil2_Fremde.md) | Bußgeld, Entschuldigung, *sich an etwas gewöhnen* |
 | [Nachhaltigkeit — je … desto](Lektion_Nachhaltigkeit_je_desto.md) | *je … desto / umso*, sustainability vocabulary |
 
 ### Writing practice
