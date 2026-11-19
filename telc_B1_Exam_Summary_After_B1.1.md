@@ -2,6 +2,8 @@
 
 **You finished B1.1.** This file is your exam map: what telc B1 tests, how each part works, and what YOU already learned (Lektionen 1–7).
 
+**Exam next month:** use [`telc_B1_One_Month_Prep.md`](telc_B1_One_Month_Prep.md) every day. That file has the pass numbers and the short phrases for the writing email.
+
 ---
 
 # 1. Exam overview (telc Deutsch B1)
@@ -124,48 +126,31 @@ A letter/email with gaps. Choose the correct word (grammar + vocab).
 
 # 5. Schreiben (Writing)
 
-## Typical tasks
-1. **E-Mail / Brief** (formal or informal) — request, complaint, invitation, apology, neighbour, job  
-2. **Forum / Meinung** — give opinion on a statement (~80 words)
+**The real telc task is one email or letter, 30 minutes, four guiding points, about 120–150 words.** It is not a forum post. Forum texts you wrote in class are still good grammar practice.
 
-## Must-have structure
+Full phrase bank, two models, and tonight’s task: [`telc_B1_One_Month_Prep.md`](telc_B1_One_Month_Prep.md).
 
-### Formal email
+## Must-have shape
 ```
-Sehr geehrte/r …,
-[Grund] …
-[Details / Bitte] …
-[Dank / Hoffnung]
+Betreff: …
+Sehr geehrte Frau …, / Lieber …,
+Ich schreibe Ihnen, weil …
+[4 points, about 2 sentences each]
+Ich freue mich auf Ihre Antwort.
 Mit freundlichen Grüßen
 Name
 ```
 
-### Forum opinion
-```
-Hallo …,
-Ich denke, dass …
-Zwar …, aber … / Einerseits …, andererseits …
-Wenn ich du wäre, würde ich …
-Ich stimme … (nicht) zu, weil …
-Viele Grüße
-```
-
 ## Phrases that win points
-- Vielen Dank im Voraus.  
-- Könnten Sie bitte …?  
-- Ich freue mich auf Ihre Antwort.  
-- Meiner Meinung nach …  
-- Es ist wichtig, … zu …  
-- Wegen + Genitiv / weil + clause  
+- Vielen Dank für Ihre E-Mail.
+- Ich schreibe Ihnen, weil …
+- Könnten Sie mir bitte sagen, …?
+- Außerdem … / Deshalb … / Leider …
+- Ich schlage vor, dass …
+- Vielen Dank im Voraus.
+- Ich freue mich auf Ihre Antwort.
 
-## Topics you’ve practised
-- Paket beim Nachbarn  
-- Mehrsprachigkeit (Sandra forum)  
-- Bewerbungsschreiben  
-- Gesundheit / Schlaf tipps  
-- Traumjob / Leben in Deutschland  
-
-**Rule:** Cover **all bullet points** in the task. Clear structure > fancy vocabulary.
+**Rule:** Cover **all four points**. Right *du* or *Sie*. Clear structure beats fancy vocabulary.
 
 ---
 

@@ -11,6 +11,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 ### Exam preparation
 | File | What it covers |
 | :--- | :--- |
+| [telc B1 — One-month pass sheet](telc_B1_One_Month_Prep.md) | What you need to pass next month: points, and short phrases for the writing email |
 | [telc B1 — Exam Summary](telc_B1_Exam_Summary_After_B1.1.md) | Full exam map: all five parts, strategies, grammar master list, 4-week study plan |
 | [telc B1 — Probeprüfung L1–L4](telc_B1_Probepruefung_L1-L4.md) | Mock exam (Lesen, Sprachbausteine, Schreiben, Sprechen) with answer key |
 | [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md) | Four reading texts with Richtig/Falsch and multiple-choice tasks |
@@ -112,7 +113,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 | Leseverstehen | Reading | Match ads, Richtig/Falsch, multiple choice — questions use **synonyms** |
 | Sprachbausteine | Grammar + vocabulary | Gap-fill in a letter/email |
 | Hörverstehen | Listening | Read questions **before** the audio |
-| Schriftlicher Ausdruck | Writing | Email or forum post — cover **all** bullet points |
+| Schriftlicher Ausdruck | Writing | One email, four points — short phrases in the [one-month sheet](telc_B1_One_Month_Prep.md) |
 | Mündliche Prüfung | Speaking | Introduction, topic talk, planning with a partner |
 
 ---
@@ -145,7 +146,7 @@ Every file contains vocabulary with English translations, example sentences, gra
 3. Practise reading with [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md).
 4. Take the [mock exam](telc_B1_Probepruefung_L1-L4.md) under time pressure.
 5. Review weak areas with [Adjektivendungen](Grammatik_Adjektivendungen.md) and [als vs. wenn](Grammatik_Als_vs_Wenn.md).
-6. Before the exam, work through the [telc B1 Exam Summary](telc_B1_Exam_Summary_After_B1.1.md).
+6. Before the exam, work through the [one-month pass sheet](telc_B1_One_Month_Prep.md), then the [telc B1 Exam Summary](telc_B1_Exam_Summary_After_B1.1.md).
 
 ### Listening practice (the hardest skill)
 
