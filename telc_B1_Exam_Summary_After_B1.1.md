@@ -25,10 +25,12 @@
 
 # 2. Leseverstehen (Reading)
 
-## Format (typical)
-1. **Zuordnung** — match people/ads/situations  
-2. **Richtig / Falsch** — true/false about a text  
-3. **Multiple Choice** — choose a/b/c  
+Pass sheet with the real three parts, the phrases that flip an answer, and a short practice: [`telc_B1_Lesen_Prep.md`](telc_B1_Lesen_Prep.md).
+
+## Format (telc Deutsch B1)
+1. **Headlines** — five short texts, five extra headlines are wrong
+2. **Multiple choice** — one longer text, a / b / c
+3. **Ads** — ten situations, mark **x** when no ad fits both wishes  
 
 ## Strategy
 1. Read **questions first** → underline keywords  
@@ -61,8 +63,10 @@
 
 # 3. Sprachbausteine (Language building blocks)
 
+Pass sheet with the 20 gap decisions and a practice: [`telc_B1_Sprachbausteine_Prep.md`](telc_B1_Sprachbausteine_Prep.md).
+
 ## What it is
-A letter/email with gaps. Choose the correct word (grammar + vocab).
+Two letters with gaps. Teil 1 is a / b / c (grammar). Teil 2 is a word bank (vocabulary); five words are extra.
 
 ## What they love to test (from YOUR grammar)
 

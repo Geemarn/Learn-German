@@ -2,6 +2,8 @@
 
 **Exam: next month.** This is the sheet you use every day. The long map is still in `telc_B1_Exam_Summary_After_B1.1.md`. This file is what you memorise.
 
+Same kind of sheet for the other written parts: [`telc_B1_Lesen_Prep.md`](telc_B1_Lesen_Prep.md) (75 points) and [`telc_B1_Sprachbausteine_Prep.md`](telc_B1_Sprachbausteine_Prep.md) (30 points).
+
 Numbers below follow the official **telc Deutsch B1 / Zertifikat Deutsch** practice test. If your invitation says something else, the invitation wins.
 
 ---
@@ -29,12 +31,12 @@ No dictionary. No phone. Writing counts only on the **answer sheet**.
 
 # 2. What each part really is
 
-**Lesen**
+**Lesen** — method, synonym pairs, and a short practice: [`telc_B1_Lesen_Prep.md`](telc_B1_Lesen_Prep.md)
 1. Five short texts → match a headline (five extra headlines are wrong).
 2. One longer text → choose a / b / c. Questions follow the text. Watch **synonyms**.
 3. Ten situations → match an ad. If nothing fits, the answer is **x**. Both conditions in the situation must match.
 
-**Sprachbausteine**
+**Sprachbausteine** — 20 gap decisions and a short practice: [`telc_B1_Sprachbausteine_Prep.md`](telc_B1_Sprachbausteine_Prep.md)
 1. Grammar gaps in a letter: a / b / c (prepositions, connectors, verb forms).
 2. Vocabulary gaps: pick from a word bank. Five words are extra. Decide the word type first (verb, noun, connector).
 
@@ -332,7 +334,7 @@ About **45–60 minutes** a day. Listening is every day, because it is 75 points
 | Week | Dates | Do this |
 | :--- | :--- | :--- |
 | **1** | 19–25 Nov | Memorise the email shape and the 20 phrases. Write **4 emails** (one every other day). Say the phrases aloud. |
-| **2** | 26 Nov–2 Dec | Lesen: one text a day from `Leseverstehen_L2_L3_L4.md`. Sprachbausteine: 10 gaps a day. Hören 20 min. |
+| **2** | 26 Nov–2 Dec | Lesen: the 20 flip-phrases in `telc_B1_Lesen_Prep.md`, then one text a day from `Leseverstehen_L2_L3_L4.md`. Sprachbausteine: the 20 decisions in `telc_B1_Sprachbausteine_Prep.md`, then 10 gaps. Hören 20 min. |
 | **3** | 3–9 Dec | One timed written mock (`telc_B1_Probepruefung_L1-L4.md`, 90 + 30 min). Three speaking runs: Teil 1, 2, 3. |
 | **4** | 10–16 Dec | Two timed emails only. Light vocab. No new grammar. Sleep. |
 

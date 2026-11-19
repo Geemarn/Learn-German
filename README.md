@@ -12,6 +12,8 @@ Every file contains vocabulary with English translations, example sentences, gra
 | File | What it covers |
 | :--- | :--- |
 | [telc B1 — One-month pass sheet](telc_B1_One_Month_Prep.md) | What you need to pass next month: points, and short phrases for the writing email |
+| [telc B1 — Lesen](telc_B1_Lesen_Prep.md) | How to take the 75 reading points: headlines, a/b/c, ads, synonym pairs |
+| [telc B1 — Sprachbausteine](telc_B1_Sprachbausteine_Prep.md) | How to take the 30 gap-fill points: 20 decisions, then a practice |
 | [telc B1 — Exam Summary](telc_B1_Exam_Summary_After_B1.1.md) | Full exam map: all five parts, strategies, grammar master list, 4-week study plan |
 | [telc B1 — Probeprüfung L1–L4](telc_B1_Probepruefung_L1-L4.md) | Mock exam (Lesen, Sprachbausteine, Schreiben, Sprechen) with answer key |
 | [Leseverstehen L2–L4](Leseverstehen_L2_L3_L4.md) | Four reading texts with Richtig/Falsch and multiple-choice tasks |
