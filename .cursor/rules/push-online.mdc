@@ -1,0 +1,16 @@
+---
+description: After study-file changes, commit and push to GitHub
+alwaysApply: true
+---
+
+# Push online
+
+When a task changes files in this repo, commit those changes and push them to `origin` before you finish. Do not wait to be asked.
+
+- Remote: `https://github.com/Geemarn/Learn-German.git` on `main`.
+- If `main` is behind `origin/main`, pull with a fast-forward first. If that would need a merge, stop and say so.
+- Stage only the files for the task. Leave secrets (`.env`, credentials) unstaged, and say so.
+- Commit message: one or two sentences, same style as `git log` (`Add …` / `Update …`), focused on why.
+- Push with `git push origin HEAD`. Never force-push. Never skip hooks.
+- If there is nothing new to commit, do not make an empty commit.
+- If the push fails, report the error. Do not claim the files are online.
